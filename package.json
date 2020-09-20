@@ -16,7 +16,7 @@
     "gulp-sourcemaps": "^1.2.8",
     "gulp-swig": "^0.7.4",
     "gulp-util": "^3.0.1",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.20",
     "merge-stream": "^0.1.6",
     "pako": "^0.2.7",
     "prismjs": "git+https://github.com/LeaVerou/prism.git#gh-pages",
